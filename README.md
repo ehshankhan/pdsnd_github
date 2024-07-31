@@ -27,7 +27,7 @@ The analysis provides insights into:
 - Peak usage times for bike-sharing in each city
 - Most popular starting and ending locations for bike trips
 - Typical trip durations
-- User type distribution (e.g., subscribers vs. casual users)
+- User type distribution.
 - Age and gender distribution of users (where available)
 
 ## Technical Details

@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 31/07/2024
 
@@ -27,13 +25,13 @@ The analysis provides insights into:
 - Peak usage times for bike-sharing in each city
 - Most popular starting and ending locations for bike trips
 - Typical trip durations
-- User type distribution (e.g., subscribers vs. casual users)
+- User type distribution.
 - Age and gender distribution of users (where available)
 
 ## Technical Details
 - **Language**: Python
 - **Key Libraries**: pandas for data manipulation, time for performance tracking
-- **Data Source**: CSV files for each city (not included in the repository due to size)
+- **Data Source**: CSV files for each city.
 
 ## Usage
 Users interact with the script via command-line prompts, selecting cities and filtering options. The script then processes the data and displays the results, with an option to view raw data in chunks.

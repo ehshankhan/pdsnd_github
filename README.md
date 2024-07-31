@@ -42,7 +42,10 @@ Users interact with the script via command-line prompts, selecting cities and fi
 This project serves as a tool for bike-sharing system operators, urban planners, and data enthusiasts to gain insights into bike usage patterns across different cities. It can help in decision-making for system improvements, resource allocation, and understanding user behavior in bike-sharing systems.
 
 ### Files used
-Include the files used
+- bikeshare.py
+-chicago.csv
+-new_york_city.csv
+-washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

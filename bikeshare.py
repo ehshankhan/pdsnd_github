@@ -42,9 +42,9 @@ def get_filters():
             if filter_value in months:
                 break
             else:
-                print("Invalid input. Please choose a month from the list.")
+                print("Invalid input. Please choose a month from the list provided.")
     elif filter_type == 'day':
-        days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
+        days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
         while True:
             filter_value = input("Which day? Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?\n").lower()
             if filter_value in days:
